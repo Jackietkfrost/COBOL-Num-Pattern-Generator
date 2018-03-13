@@ -2,9 +2,6 @@
        PROGRAM-ID. PATTCBL
       ******************************
       *AUTHOR:     JACKIE MARCANO  *
-      *STUDENT ID:	XXXXXXXXX	   *
-      *PROFESSOR:   XXXXXXXXX	   *
-      *PROGRAM:    NUMBER PATTERN  *
       ******************************
        DATA DIVISION.
        WORKING-STORAGE SECTION.
